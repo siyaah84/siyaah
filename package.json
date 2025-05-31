@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "migrate": "drizzle-kit push:sqlite"
+    "migrate": "drizzle-kit push"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.0.0",
